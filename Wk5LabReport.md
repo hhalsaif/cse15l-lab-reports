@@ -15,5 +15,5 @@ The -o option prints only the matching part of a line
 
 
 # References 
-![Redhat How to use Grep Guide](https://www.redhat.com/sysadmin/how-to-use-grep)
-![Official Gnu Grep Docs](https://www.gnu.org/software/grep/manual/grep.html)
+[Redhat How to use Grep Guide](https://www.redhat.com/sysadmin/how-to-use-grep)
+[Official Gnu Grep Docs](https://www.gnu.org/software/grep/manual/grep.html)
